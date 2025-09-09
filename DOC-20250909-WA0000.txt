@@ -1,0 +1,119 @@
+﻿:
+
+
+SAP ERP Essentials – Notes
+1. Introduction
+* SAP ERP = Integrated system for large businesses to manage major functions.
+* Eliminates data silos, standardizes data, and automates processes.
+* Benefits:
+   * Real-time reporting → better decisions.
+   * Automates core processes (e.g., auto reordering inventory).
+   * Strong focus on security and compliance.
+* Limitations:
+   * High cost of ownership (TCO).
+   * Long implementation (6 months–5 years).
+   * Steep learning curve → requires training.
+   * Resistance to change in organizations.
+
+
+2. SAP Implementation Steps
+1. Project Preparation – Define scope, cost, resources, study current systems.
+2. Realization – Configure SAP to match company processes.
+   * Configuration = Using SAP default features.
+   * Customization = Adding features not in default SAP (costly & time-consuming).
+3. Testing
+   * Unit testing – individual parts.
+   * Integration testing – how modules work together.
+   * Performance testing – speed and handling capacity.
+4. Final Preparation – Upload master data, set security rules, user training.
+5. Go Live – Switch from old systems to SAP.
+6. Post Go Live Support – Fix issues, add non-critical customizations.
+
+
+3. SAP Modules
+Two main types:
+* Technical Modules – Backend infrastructure, rarely seen by end-users.
+* Functional Modules – Directly support business processes.
+Common Functional Modules
+* Finance (FI) – General ledger, AP, AR, Asset Accounting, Bank Management.
+* Controlling (CO) – Cost control, profit centers, product costing.
+* Sales & Distribution (SD) – Sales cycle, shipping, billing.
+* Materials Management (MM) – Procurement, inventory, vendor data.
+* Production Planning (PP) – Manufacturing planning, BOM, capacity planning.
+* Quality Management (QM) – Quality inspections, defect tracking.
+* Plant Maintenance (PM) – Maintenance scheduling and repair tracking.
+* Project Systems (PS) – Project planning and tracking with WBS.
+* Human Capital Management (HCM) – HR processes: hiring, payroll, training.
+
+
+4. Master Data vs Transactional Data
+* Master Data – Static foundational info (e.g., customers, vendors, employees).
+* Transactional Data – Day-to-day changing activities (e.g., sales orders).
+
+
+5. Clients in SAP
+* Production Client – Live data for daily operations.
+* Quality Assurance Client – Testing customizations.
+* Sandbox Client – Experimentation area.
+* Training Client – For user training.
+
+
+6. Security Roles
+* Controls user access to transactions and organizational levels.
+* Ensures Segregation of Duties:
+   * E.g., A manager can approve leave for their team but cannot approve for other departments or extend credit to customers.
+
+
+7. Navigation Basics
+* SAP GUI – Interface to access SAP.
+* Transactions:
+   * Access via Menu Tree or T-Codes.
+   * T-Codes ending with:
+      * 01 → Create
+      * 02 → Change
+      * 03 → Display
+      * Starting with Z → Custom transaction.
+* Shortcuts:
+   * /n – New transaction in same session.
+   * /o – Open transaction in a new session.
+
+
+8. Reporting & Exports
+* Reports can be customized using:
+   * Selection Criteria → filter data before running reports.
+   * Variants → save search criteria for repeated use.
+   * Layouts → customize report display.
+* Export Options:
+   * PDF
+   * Excel (most common for detailed analysis).
+
+
+9. Key Processes by Module
+Finance (FI):
+* AP (Accounts Payable): Vendor invoices, payments, reporting.
+* AR (Accounts Receivable): Customer transactions, invoices.
+* Asset Accounting: Track acquisitions, depreciation, disposal.
+* Bank Accounting: Manage bank transactions.
+Controlling (CO):
+* Profit Centers: Measure profit/loss by business area.
+* Cost Centers: Track expenses by department.
+* Internal Orders: One-time expense tracking.
+* Product Costing: Manufacturing cost analysis.
+* Profitability Analysis: Pricing and region-based profit reports.
+Materials Management (MM):
+* Purchasing → Requisitions, purchase orders.
+* Inventory Management → Goods movement and transfers.
+* Physical Inventory → Cycle counts, stock validation.
+* Master Data → Material & Vendor details.
+Production Planning (PP):
+* BOM (Bill of Materials): List of raw materials & components.
+* Routings: Step-by-step production operations.
+* Capacity Planning: Balance workload.
+* MRP (Material Requirement Planning): Ensure raw material availability.
+
+
+10. Tips for Beginners
+* Use Favorites folder for frequently used T-Codes.
+* Enable tooltips and display technical names for easier navigation.
+* Save layouts and search variants to speed up reporting.
+* Wildcards (*) are helpful when searching without full names.
