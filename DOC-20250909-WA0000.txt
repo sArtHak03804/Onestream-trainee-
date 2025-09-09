@@ -1,6 +1,3 @@
-﻿:
-
-
 SAP ERP Essentials – Notes
 1. Introduction
 * SAP ERP = Integrated system for large businesses to manage major functions.
@@ -116,4 +113,5 @@ Production Planning (PP):
 * Use Favorites folder for frequently used T-Codes.
 * Enable tooltips and display technical names for easier navigation.
 * Save layouts and search variants to speed up reporting.
+
 * Wildcards (*) are helpful when searching without full names.
