@@ -1,0 +1,88 @@
+
+ACCOUNTING CRASH COURSE SUMMARY
+
+1. BASICS OF ACCOUNTING
+- Accounting = Language of business; records every transaction.
+- Every transaction has two sides: Debit (Dr) & Credit (Cr). Debit = Credit always.
+
+Golden Rules:
+- Assets & Expenses: Increase → Debit | Decrease → Credit
+- Liabilities, Equity, Income: Increase → Credit | Decrease → Debit
+
+2. KEY ELEMENTS
+1) Assets – What company owns for future benefit.
+   Examples: Cash, Inventory, Building, Equipment, Accounts Receivable.
+   - Current Assets: Converted to cash within 12 months.
+   - Non-Current Assets: Long-term (Land, Machinery).
+   - Intangible Assets: Patents, Goodwill, Software.
+
+2) Liabilities – What company owes.
+   - Current Liabilities: Due within 12 months.
+   - Non-Current Liabilities: Long-term debts.
+   - Contingent Liabilities: Dependent on future events (lawsuits, warranties).
+
+3) Equity – Owner’s claim after liabilities.
+   Formula: Assets = Liabilities + Equity
+
+4) Income – Increases assets or decreases liabilities → increases profit.
+   Examples: Sales, Service Income, Dividend Income.
+
+5) Expenses – Decrease assets or increase liabilities → decreases profit.
+   Examples: Salaries, Rent, Utilities, Depreciation.
+
+3. FINANCIAL STATEMENTS
+- Balance Sheet (Snapshot): Shows Assets, Liabilities, Equity.
+- Income Statement (Period): Income – Expenses = Net Profit/Loss.
+- Cash Flow Statement: Cash movement divided into
+  * Operating Activities
+  * Investing Activities
+  * Financing Activities
+
+4. KEY ACCOUNTING PRINCIPLES
+- Accrual: Record when transactions occur, not when cash moves.
+- Matching: Match revenue with related expenses.
+- Historical Cost: Record assets at purchase price.
+- Going Concern: Assume business will continue.
+- Materiality: Ignore small insignificant amounts.
+- Revenue Recognition: Record revenue when goods/services delivered.
+- Consistency: Use same accounting policies each year unless necessary to change.
+
+5. COMMON TRANSACTIONS
+
+| Transaction                      | Debit (Dr)           | Credit (Cr)       |
+|---------------------------------|----------------------|-------------------|
+| Owner invests capital            | Cash                 | Owner's Equity    |
+| Buy furniture for cash           | Furniture            | Cash              |
+| Buy furniture on credit          | Furniture            | Accounts Payable  |
+| Pay off payable                   | Accounts Payable     | Cash              |
+| Pay rent                          | Rent Expense         | Cash              |
+| Receive dividend income          | Cash                 | Dividend Income   |
+| Buy goods for resale (Inventory) | Inventory            | Cash              |
+| Sell goods for cash (Sales)      | Cash                 | Sales             |
+| Record cost of goods sold         | Cost of Sales       | Inventory         |
+
+6. FLOW OF ACCOUNTING PROCESS
+Journal Entries → General Ledger → Trial Balance → Financial Statements
+
+Trial Balance:
+- Assets & Expenses → usually Debit Balance.
+- Liabilities, Equity, Income → usually Credit Balance.
+
+7. BALANCE SHEET VS INCOME STATEMENT
+| Balance Sheet                   | Income Statement          |
+|--------------------------------|---------------------------|
+| Snapshot at a point in time     | Covers a period of time   |
+| Shows financial position        | Shows financial performance |
+| Assets = Liabilities + Equity   | Income – Expenses = Net Profit |
+
+8. CASH FLOW SECTIONS
+- Operating: Day-to-day business (Sales, rent paid, supplier payments).
+- Investing: Buying/selling assets, dividends received.
+- Financing: Loans, owner investment.
+
+9. MEMORY HACKS
+- IDEA Rule: Increase Debit Expense & Assets.
+  * Assets/Expenses ↑ → Debit
+  * Liabilities/Income/Equity ↑ → Credit
+- Accounting Equation: Assets = Liabilities + Equity
+
