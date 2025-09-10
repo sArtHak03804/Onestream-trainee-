@@ -1,0 +1,199 @@
+﻿-------------------------------------
+SECTION 1: UNDERSTANDING ACCOUNTING
+-------------------------------------
+Definition:
+Accounting is the systematic process of IDENTIFYING, RECORDING, CLASSIFYING, SUMMARIZING, and INTERPRETING financial transactions 
+to provide useful information for decision-making.
+
+
+Purpose of Accounting:
+1. Helps track income and expenses.
+2. Ensures legal compliance (taxes, audits, etc.).
+3. Provides information for better business decisions.
+4. Determines profitability and financial health.
+5. Useful for planning and budgeting.
+
+
+Branches of Accounting:
+1. Financial Accounting – Focuses on preparing financial statements for external stakeholders.
+2. Managerial Accounting – Helps internal management make decisions.
+3. Cost Accounting – Deals with calculation and control of production costs.
+4. Tax Accounting – Focuses on tax compliance and planning.
+
+
+Types of Business Entities:
+- Sole Proprietorship: Owned by one person.
+- Partnership: Owned by two or more persons.
+- Corporation/Company: Separate legal entity from owners.
+
+
+Accounting Cycle (Step-by-Step Process):
+1. Identify transactions – Example: sale of goods, payment of rent.
+2. Record in Journal – Double entry of debit and credit.
+3. Post to Ledger – Transfer journal entries to individual accounts.
+4. Prepare Trial Balance – Check accuracy of debit and credit balances.
+5. Adjusting Entries – Record accrued incomes, expenses, depreciation, etc.
+6. Prepare Financial Statements – P&L statement and Balance Sheet.
+7. Closing Entries – Close temporary accounts like income and expense accounts.
+
+
+-------------------------------------
+SECTION 2: KEY TERMS IN ACCOUNTING
+-------------------------------------
+Assets:
+- Anything the business owns that has value.
+- Types:
+  a) Current Assets – Cash, inventory, accounts receivable.
+  b) Non-current/Fixed Assets – Building, machinery, land.
+
+
+Liabilities:
+- Obligations the business owes to outsiders.
+- Types:
+  a) Current Liabilities – Payable within 1 year (creditors, short-term loans).
+  b) Non-current Liabilities – Long-term loans, bonds payable.
+
+
+Equity (Owner’s Capital):
+- Owner’s stake in the business.
+- Formula: Equity = Assets - Liabilities.
+
+
+Revenue:
+- Money earned from normal business operations like sales and services.
+
+
+Expenses:
+- Costs incurred to generate revenue. Examples: salaries, rent, utilities.
+
+
+Debtors (Accounts Receivable):
+- People or organizations who owe money to the business.
+
+
+Creditors (Accounts Payable):
+- People or organizations to whom the business owes money.
+
+
+Drawings:
+- Money or goods withdrawn by the owner for personal use.
+- Reduces owner’s capital.
+
+
+Debit (Dr.):
+- Left side of an account.
+- Represents increase in assets or expenses.
+
+
+Credit (Cr.):
+- Right side of an account.
+- Represents increase in liabilities, equity, or revenue.
+
+
+-------------------------------------
+SECTION 3: UNDERSTANDING PROFIT & LOSS STATEMENT
+-------------------------------------
+Definition:
+A Profit & Loss Statement (P&L), also known as Income Statement, 
+shows the financial performance of a business over a specific period of time.
+It reveals whether the business made a PROFIT or a LOSS.
+
+
+Structure of a P&L Statement:
+1. Revenue (Sales, service income)
+2. LESS: Cost of Goods Sold (COGS)
+3. = Gross Profit
+4. LESS: Operating Expenses (salaries, rent, utilities, marketing)
+5. = Operating Profit
+6. LESS: Taxes, interest, other costs
+7. = Net Profit or Net Loss
+
+
+Key Formula:
+Net Profit = Total Revenue - (COGS + Operating Expenses + Taxes)
+
+
+Example:
+Sales Revenue = 50,000
+COGS = 20,000
+Operating Expenses = 15,000
+Net Profit = 50,000 - (20,000 + 15,000) = 15,000
+
+
+Importance of P&L Statement:
+1. Helps measure business performance.
+2. Identifies high expense areas.
+3. Helps investors and creditors assess profitability.
+
+
+-------------------------------------
+SECTION 4: OWNER'S CAPITAL & BALANCE SHEET
+-------------------------------------
+Owner's Capital:
+- Represents total funds invested by the owner into the business.
+- Affected by:
+  a) Increase in capital:
+     - Initial capital invested
+     - Additional capital invested
+     - Net profit retained in business
+  b) Decrease in capital:
+     - Losses
+     - Drawings (cash or goods withdrawn by owner)
+
+
+Formula:
+Ending Capital = Beginning Capital + Additional Capital + Profit - Drawings
+
+
+Balance Sheet:
+- A financial statement that shows the company’s financial position on a specific date.
+- Based on the ACCOUNTING EQUATION:
+  Assets = Liabilities + Owner’s Equity
+
+
+Structure of Balance Sheet:
+-------------------------------------
+ASSETS            | LIABILITIES & EQUITY
+-------------------------------------
+Cash              | Accounts Payable
+Accounts Receivable | Loans Payable
+Inventory         | Owner's Capital
+Equipment         | 
+-------------------------------------
+
+
+Types of Assets:
+1. Current Assets – Easily converted into cash within one year (cash, inventory, accounts receivable).
+2. Fixed/Non-current Assets – Used for long-term operations (machinery, buildings).
+
+
+Types of Liabilities:
+1. Current Liabilities – Due within one year (creditors, short-term loans).
+2. Long-term Liabilities – Payable after one year (mortgages, bonds).
+
+
+Example of Accounting Equation:
+If a business has:
+- Total Assets = 80,000
+- Total Liabilities = 50,000
+Then,
+Owner's Equity = Assets - Liabilities = 80,000 - 50,000 = 30,000
+
+
+-------------------------------------
+IMPORTANT FORMULAS (Quick Recap)
+-------------------------------------
+1. Net Profit = Revenue - (COGS + Expenses)
+2. Accounting Equation = Assets = Liabilities + Equity
+3. Owner's Ending Capital = Initial Capital + Profit - Drawings
+
+
+-------------------------------------
+SUMMARY
+-------------------------------------
+- Accounting provides a framework for tracking business finances.
+- Understand and remember key terms: assets, liabilities, equity, revenue, expenses.
+- The P&L statement focuses on financial performance (profit or loss).
+- The Balance Sheet is a snapshot of financial position.
+- Owner's Capital represents the owner's stake and changes with profits, losses, and drawings.
+- Double-entry bookkeeping is the backbone of accounting where every transaction affects two accounts (debit and credit).
