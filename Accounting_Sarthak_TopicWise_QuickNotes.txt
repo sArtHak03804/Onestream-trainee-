@@ -1,0 +1,477 @@
+## Separate Entity Concept
+
+- Business is separate from the owner's
+- owner's money in the business is called owner's capital
+- The owner's capital is a kind of liability on the business.
+- The owner's capital is a kind of liability on the business.
+- liabilities are 2 types
+
+## Dual Impact of Transaction
+
+- A transaction involves an exchange of valuables, where something is given to gain something else.
+- In sales, goods are given and money is received.
+- In purchases, money is given and goods are received.
+
+## The Accounting Equation
+
+- The fundamental accounting equation is: assets = liabilities + owner's capital.
+
+## Recording in Accounting
+
+- Ledger has two side we put debit left side and right side credit
+- debit may mean increase or debit may mean decrease as well.This depends on the class of the ledger.
+- For assets, the debit will mean increase and the decrease will be recorded on the credit side. So, for assets, debit is used to record increases and credit is used to record decreases.
+
+## Debit and Credit Rules
+
+- 1. Debits:
+- * Increase in Assets: When you acquire an asset, you debit it.
+- * Increase in Expenses: When expenses rise, you debit the expense account.
+- * Decrease in Liabilities: If you pay off a liability, you debit the liability account.
+- 2. Credits:
+- * Increase in Liabilities or Owner’s Equity: When a liability increases, like taking a loan, you credit that account.
+- * Increase in Income: Earnings or income also get credited as they increase owner's equity.
+- * Decrease in Assets or Expenses: If you sell an asset or reduce an expense, you credit that account.
+
+## Journal Entry
+
+- Before posting our transaction into the ledger, there is a formality performed. This step is done for the sake of ease and to ensure that we record the correct balances in the ledgers.
+- Prior to posting the transaction to the ledger, we record it in a table. This table has three columns:
+- * Account: Specifies which account is affected.
+- * Debit: The amount to be debited.
+- * Credit: The amount to be credited.
+- Debit: Expense Account $500
+- Credit: Payables Account $500
+- * Expense increases → Debit
+- * Payables (liability) increases → Credit
+- * Expense Ledger → Debit $500
+- * Payables Ledger → Credit $500
+- * Credit purchase = Expense now, payment later.
+- * Entry: Debit Expense, Credit Payables.
+- Assume original credit expense was:
+- Debit: Expense Account $X
+- Credit: Payables Account $X
+- Debit: Payables Account $X
+- Credit: Expense Account $X
+- * You no longer owe → reduce Payables (debit).
+- * The expense is removed → reduce Expense (credit).
+- * Payables Ledger → Debit (cancels out original credit)
+- * Expense Ledger → Credit (cancels out original debit)
+- NotesNet Effect: Both ledgers should return to zero balance if the full transaction is reversed.
+- * You previously recorded an expense on credit (Payables created).
+- Debit: Payables Account $500
+- Credit: Cash/Bank Account $500
+- * Payables are debited to reduce the liability.
+- * Cash is credited to show a decrease in the asset.
+- Entry
+- Debit $500
+- Credit $500
+- * Payables Ledger = $0 → liability cleared
+- * Payables (liability) → Debited to reduce
+- * Cash (asset) → Credited to reduce
+- * Payables Ledger balance = zero after full payment
+- * Payment was late, so the supplier charges 5% interest = $25.
+- Debit
+- Credit
+- * Interest Expense is debited because it’s a new expense.
+- * Payables are credited to increase the amount owed.
+- * Interest Expense Ledger: Debit $25
+- * Payables Ledger: Credit $25 (Payable balance increases to $525)
+- * Interest charged is a separate expense; do not mix it with the original expense ledger.
+- * This separation helps in accurate financial reporting and tracking of interest costs.
+- * Interest on late payment is an additional expense.
+- * Recorded by debiting Interest Expense and crediting Payables.
+- Debit
+- Credit
+- * This applies to both buyer and seller.
+- * Expenses Ledger: Debited $80
+- * Payables Ledger: Credited $80
+- Golden Rule Summary
+- * Payables: Debited $500 → Balance = $0
+- * Cash: Credited $475 → Cash reduced
+- * Discount Received: Credited $25 → Treated as income
+- Issued by the seller to confirm payment has been received.
+- Notes4. Sales Return Documents📤 a. Debit Note (from Buyer)
+- b. Credit Note (from Seller)
+- * Credit notes
+- Identifies discrepancies early
+- * Given when payment is made immediately (retail, restaurants, etc.)
+- Debit: Cash/Bank Account
+- Credit: Income/Sales Account
+- This increases both your cash and your revenue.
+- * Cash/Bank Ledger → Debit (cash comes in)
+- * Sales/Income Ledger → Credit (income increases)
+- 3. Credit Income
+- When a customer buys now, but pays later
+- Debit: Receivables (Debtor’s) Account
+- Credit: Income/Sales Account
+- Later, when customer pays:
+- Debit: Cash/Bank Account
+- Credit: Receivables Account
+- Reversal Entry:
+- Debit: Income/Sales Account
+- Credit: Receivables or Cash (depending on whether paid)
+- This removes the income and returns any receivable or cash.
+- Debit: Receivables $90
+- Credit: Sales/Income $90
+- Debit: Receivables $25
+- Credit: Interest Income $25
+- When a receivable is unrecoverable (customer won’t pay)
+- Debit: Bad Debt Expense
+- Credit: Receivables
+- This removes the receivable and recognizes the loss.
+- 9. Allowance for Bad Debts (aka Provision for Doubtful Debts)
+- This is a preventive expense, even before any specific receivable goes bad.
+- Debit: Bad Debt Expense
+- Credit: Allowance for Doubtful Debts (Contra Asset)
+- Debit: Allowance for Doubtful Debts
+- Credit: Receivables
+- This doesn’t affect profit again — you already accounted for the loss.
+- Debit
+- Credit
+- Credit sale
+- Debit: Receivables $25
+- Credit: Interest Income $25
+- When a receivable is unrecoverable (customer won’t pay)
+- Debit: Bad Debt Expense
+- Credit: Receivables
+- This removes the receivable and recognizes the loss.
+- 9. Allowance for Bad Debts (aka Provision for Doubtful Debts)
+- This is a preventive expense, even before any specific receivable goes bad.
+- Debit: Bad Debt Expense
+- Credit: Allowance for Doubtful Debts (Contra Asset)
+- Debit: Allowance for Doubtful Debts
+- Credit: Receivables
+- This doesn’t affect profit again — you already accounted for the loss.
+- Debit
+- Credit
+- Credit sale
+- Debit ($)
+- Credit ($)
+- Debit ($)
+- Credit ($)
+
+## Balance Sheet Format
+
+- On the asset side, we first present all current assets individually, such as cash, bank, and inventory. After listing these, a subtotal for all current assets is provided.
+- Following current assets, all non-current assets are presented individually, followed by a subtotal for non-current assets. Finally, a total for the entire asset side of the balance sheet is calculated.
+- On the other side of the balance sheet, we begin by presenting liabilities. Current liabilities are listed individually, followed by a subtotal for all current liabilities.
+- Next, non-current liabilities are presented individually, followed by a subtotal for non-current liabilities. After liabilities, the owner's capital is presented.
+- Finally, a total is calculated for the entire side, which includes liabilities and owner's capital. It is essential to remember that the total of the asset side must equal the total of the liabilities and owner's capital side.
+- There are two main categories of expenses:
+- * Operating expenses (also called operational expenses)
+- Operating expenses are those incurred during the normal operations of the business. These expenses are generally within your control and relate to your operational efficiency.
+- In contrast, non-operating expenses are costs that occur but are not related to the normal business operations.
+- It is important to note that the term "goods" refers only to items held for the purpose of resale.
+
+## Profit & Loss Statement Format
+
+- * The profit and loss statement is structured by separating operating income and expenses from non-operating items.
+- * Operating expenses are deducted from gross profit to determine operating profit, reflecting the core business operations.
+- * Non-operating items such as interest and taxes are considered after operating profit to arrive at net profit.
+- * Debit and credit in bank statements are from the bank's perspective, opposite to ledger entries.
+- * Common transaction types include Standing Orders, Direct Debits, Bank Charges, Negative Balances, Interest Received/Charged, and Dishonored Checks.
+
+## Bank Reconciliation
+
+- These are transactions found either in the bank statement or in the general ledger but not both:
+- 3. Direct Debits
+- 5. Dishonored Checks
+- 7. Uncredited Checks
+- All entries are made in the Bank Ledger, which is part of the General Ledger.
+- * Entry:
+- * Debit: Bank Charges (P&L)
+- * Credit: Bank Ledger
+- * Entry:
+- * Debit: Bank Ledger
+- * Credit: Interest Income
+- 3. Direct Debit
+- * Entry:
+- * Credit: Bank Ledger
+- * (Offsetting debit would be to the relevant expense or payable)
+- * Entry:
+- * Credit: Bank Ledger
+- * (Offsetting debit would be to the relevant expense or vendor)
+- 5. Dishonored Check (Customer)
+- * Reversal Entry:
+- * Credit: Bank Ledger
+- * (Offsetting debit would likely go to accounts receivable)
+- * Nature: Issued checks not yet cleared by the bank
+- 7. Uncredited Checks
+- * Nature: Deposited checks not yet cleared by the bank
+- − Direct Debit: $750
+- − Dishonored Check: $1,200
+- Less: Uncredited Checks
+- = Balance per Bank
+- * The difference between GL and bank statement is due to timing differences:
+- * Unpresented Checks (issued but not cleared)
+- * Uncredited Checks (deposited but not cleared)
+- * These items are not adjusted in the ledger, only in the reconciliation report.
+- 3. Timing differences (like unpresented/uncredited checks) are not recorded in the ledger, but explained in the reconciliation report.
+- * Deduct uncredited checks
+- 4. Prepare Trial Balance
+- 6. Prepare Adjusted Trial Balance
+- 7. Prepare Financial Statements:
+- Adjusting entries are crucial to ensure financial reports reflect the true position of the business at period-end.
+- Prepares financial statements
+- Performs financial analysis & management reporting
+- Decision-making support
+- Impact of Software Automation
+- * Data Entry → Reports Automatically Generated
+- * Expense analysis
+
+## Positive and Negative Balance
+
+- * Positive Bank Balance = Debit in GL
+- Means you have money available.
+- * Example: $10,000 in the bank → Debit $10,000
+- * Bank Balance = Credit in GL
+- * Example: Overdraft of $10,000 → Credit $10,000
+- * Means you owe money or are in overdraft.
+- * Positive Balance = Credit in Bank Statement
+- * Bank owes you money → Credit $10,000
+- * Negative Balance (Overdraft) = Debit in Bank Statement
+- * You owe the bank → Debit $10,000
+- * Means you're using overdraft or have a negative balance.
+- * GL = your books → Debit = good (you have cash), Credit = overdraft.
+- * Bank Statement = bank’s view → Credit = good, Debit = bad.
+- * The terms "debit" and "credit" flip between GL and Bank Statement because of opposite perspectives.
+- Understanding Cash and Credit Transaction
+- What is a Transaction?
+- * A transaction is the exchange of valuables, usually involving goods or services and payment.
+- * When we receive goods or services, we must pay for them — either immediately or later.
+- Types of Transactions
+- Transactions are classified into two main types:
+- * Payment is made immediately upon receiving goods or services.
+- 2. Credit Transactions
+- * Goods or services are received now, but payment is made later.
+- * The payment date is agreed upon (e.g., 10, 30, or 60 days).
+- * Transaction is recorded when cash is received or paid.
+- * Sale is recorded only when payment is received.
+- * Purchase is recorded only when payment is made.
+- No accounting entry on Day 1 (when goods/services are exchanged).
+- * Can be used internally for cash flow tracking and management analysis.
+- * Transaction is recorded when it occurs, regardless of when cash is paid or received.
+- * Sale or purchase is recorded on Day 1 (when the transaction happens).
+- * Cash received/paid is recorded later as a separate entry.
+- In Credit Transactions:
+- * Two sub-transactions are recorded:
+- 2. Cash movement (when payment is made/received)
+- When is the transaction recorded?
+- When cash is paid/received
+- When the sale/purchase occurs
+- Is it allowed for external reporting?
+- Recording in credit transactions
+- Only when cash is exchanged
+
+## Receivables and Payables
+
+- What Happens in Credit Transactions?
+- * Sale on credit → you receive payment later → you have a right to receive.
+- * Purchase on credit → you pay later → you have an obligation to pay.
+- * Arise when you make a sale and expect payment later.
+- * This is an asset (future economic benefit).
+- * Also called Debtors in some regions.
+- 📤 Payables (Creditors)
+- * Arise when you make a purchase or incur an expense, but pay later.
+- * This is a liability.
+- * Also called Creditors in some regions.
+- * Receivables = Right to receive = Asset (from sales).
+- * Payables = Obligation to pay = Liability (from purchases/expenses).
+
+## Cash Expenses and Payables
+
+- When you spend cash for an expense (e.g., $200):
+- Debit: Expense Account $200
+- Credit: Cash/Bank Account $200
+- * Expenses increase → always debited.
+- * Cash decreases → always credited.
+- Note: Payments via card or check are treated the same as cash (use Bank Account instead of Cash, if needed).
+- When expenses are reversed (e.g., return of service or goods):
+- Debit: Cash/Bank Account $200
+- Credit: Expense Account $200
+- * Cash comes back → debit.
+- * Expense is canceled → credit.
+- * Expense Ledger: Debit $200
+- * Cash Ledger: Credit $200
+- * Reversal entry:
+- * Expense Ledger: Credit $200
+- * Cash Ledger: Debit $200
+- NotesNet effect in both ledgers = Zero
+- Mistakes in Entries
+- * To correct a wrong entry, post a reverse entry (mirror image of the original).
+
+## Credit Expenses
+
+- 💳 What is a Credit Expense?
+- * An expense incurred now but payment is delayed (e.g., due in 20 days).
+- When Does This Happen?
+- * You cancel a purchase or the expense is no longer valid.
+- * The original transaction was on credit (payment was due later).
+
+## Trade Discount
+
+- Understanding Discounts
+- * Two types of discounts:
+- * A reduction on the list price offered by the seller.
+- * Only the net amount after discount is recorded.
+- * The list price and discount are ignored in journal entries.
+- * Transactions are recorded only at the net price after discount.
+- * It is not recorded separately in accounting.
+- * Purchase expenses and liabilities are recorded at the net discounted price.
+- * The list price and discount are not part of accounting entries.
+- Only the net amount is recorded.
+
+## Cash Discount
+
+- * Also called Settlement Discount.
+- * Offered to encourage early payment in credit transactions.
+- * Example: “5% discount if paid within 10 days.”
+- * It’s only recorded when payment is actually made early and the discount is availed.
+- * Debit: Expenses $500
+- * Credit: Payables $500
+- If Discount is Availed
+- * Discount: 5% of $500 = $25
+- * $25 is income (Discount Received)
+- Debit
+- Credit
+- Discount Received
+- * Discount is recorded as income (credit) when availed.
+- * Use combined entry for discount and payment in most cases.
+- * Maintains proper double-entry structure: total debits = total credits
+- Example: Invoice = $500, 5% discount if paid early.
+- Debit: Cash/Bank $475
+- Debit: Discount Allowed (Expense) $25
+- Credit: Receivables $500
+- Buyer gets a discount, but the seller records that discount as an expense.
+- When customer pays late, and you charge interest (e.g., 5%)
+- * Add this interest to the receivable.
+- Discount Allowed
+- When customer pays late, and you charge interest (e.g., 5%)
+- * Add this interest to the receivable.
+- Discount Allowed
+- What Are Doubtful Debts?
+- Doubtful Debts = Receivables (customers who owe us) we are unsure will pay.
+- These are not confirmed losses yet (not written off), just suspected risks.
+- Why Do We Care in Accounting?
+- Because of the Prudence (Conservatism) Concept:
+- We create an Allowance for Doubtful Debts (also called Provision for Doubtful Debts).
+- This means:
+- What Are Gross vs. Net Receivables?
+- An estimated amount of receivables we believe might not be collected. This is a contra-asset account.
+- Net Receivables = Gross Receivables − Allowance
+- This is what is reported on the Balance Sheet.
+- * Gross Receivables = $10,000
+- * Allowance for Doubtful Debts = $600
+- Net Receivables = $10,000 − $600 = $9,400
+- = Net Accounts Receivable $9,400
+- (with the allowance disclosed in notes)
+- Provision for Bad Debts / Allowance for Receivables
+- * Gross = All receivables before adjustments
+- * Allowance = Estimate of loss from doubtful debts
+- * Net = Gross − Allowance = Actual collectible amount
+- * Only Net Receivables are shown on the Balance Sheet
+
+## Key Documents
+
+- A document issued by the seller to the buyer, requesting payment and detailing the product/service sold.
+
+## Recording Credit Income
+
+- Money that customers owe you because you sold on credit
+- When a customer pays immediately (cash, card, bank)
+
+## Sales Tax
+
+- Entry
+- Issued By
+- Accounting Entry?
+- Despite the different names, the accounting treatment is generally the same:
+- Tax is collected at sale and later paid to the tax authority.
+- * This depends on:
+- * Thresholds: Small businesses under a certain revenue may not be required to register.
+- In many countries, if a business makes less than $30,000/year in revenue, it may not be required to register for GST or VAT.
+- * When a sale is made:
+- * Debit: Accounts Receivable / Cash
+- * Credit: Sales Revenue
+- * When a purchase is made (if a business):
+- * Debit: Expense or Asset
+- * Credit: Cash / Payables
+- If the buyer is a registered business, they may be able to claim back the tax paid (Input Tax Credit).
+- * Terms like GST, VAT, PST, and HST differ by region, but the concept and treatment are the same.
+- * Item 1 = $40
+- * Item 2 = $35
+- * Item 3 = $25
+- Net Total = $100
+- Gross Total (Paid by Buyer) = $120
+- This reflects:
+- * Cash received = $120
+- * Income earned = $100
+- * Tax liability = $20
+- Entry Type
+- Debit
+- Credit
+- Credit
+- Note on Non-Registered Sellers:
+- * Only Net Price is recorded as income.
+- * Sales = Net amount before tax.
+- * Cash received = Net + Tax (Gross).
+- 2. Example – Direct Calculation (When Net Price is known)
+- * Net Price = 50
+- * Tax Rate = 20%
+- * Gross Price = 50 + 10 = 60
+- 3. Reverse Calculation (When Gross Price is known)
+- * Gross Price = 60
+- * Tax Rate = 20%
+- 20% of 60 = 12 (Wrong – tax is on Net, not Gross)
+- Net price =
+- 100+Tax Rate(parentage)
+- * Prepayments and accruals are key accounting concepts.
+- * Accruals concept: Record expenses when incurred, not when paid; record income when earned, not when received.
+- What are Prepayments?
+- * Prepayments occur when payment for expenses is made in advance before the related services are consumed.
+- * Payment is made early, but expenses are incurred later.
+- * Expense is not recorded at the time of payment.
+- * Payment recorded as an asset called Prepaid Expense (or Advance Payment).
+- * Expense is recorded gradually over the periods when the service is actually consumed (months 2-6 in the example).
+- * Receiver records a liability or deferred income until service is provided.
+- * Prepayments = expenses paid before consumption of service.
+- * Expenses recorded only when incurred, not when paid.
+- * Prepayments are initially assets, expensed over the service period.
+- * Prepayment for one party is income for the other party.
+- What Are Accruals?
+- * Accruals refer to expenses or income that are recognized before payment or receipt of cash.
+- * Opposite of prepayments, where payment is made in advance for future services.
+- * Services are consumed first, payment is made later.
+- * These expenses must be recorded at the time the service is used, not when paid.
+- Accrued Income (they are owed)
+- What Are Non-Current Assets?
+- This is a non-current asset.
+- Why Are NCAs Important in Accounting?
+- * When sold or disposed of, businesses may record a gain or loss.
+- What is Depreciation?
+- Depreciation is the systematic allocation of the cost of a non-current asset over its useful life.
+- * Asset purchase is not an immediate expense.
+- Rules for Depreciation
+- * Must be based on a consistent method over time.
+- * After this period, the asset is usually sold, replaced, or scrapped.
+- * Also called scrap value or salvage value
+- * The estimated amount the company expects to receive when the asset is sold at the end of its useful life
+- After 5 years, the car is expected to be sold for $10,000
+- 👉 Residual Value = $10,000
+- Car will be used for 5 years → Useful Life = 5 years
+- A car is bought for $22,000 and $3,000 is spent on restoration.
+- 👉 Total Cost = $22,000 + $3,000 = $25,000
+- Depreciation per year = Cost−Residual Value​
+- Use When: The asset gives equal benefit every year (e.g., buildings, furniture).
+- Cost = $50,000, Residual Value = $0, Life = 5 years
+- Depreciation = $50,000 ÷ 5 = $10,000 per year
+- (Also called: Declining Balance Method)
+- Depreciation for Year n=Book Value at Start of Year ×Depreciation
+- Use When: Asset loses value faster in early years (e.g., computers, cars).
+- Cost = $50,000, Rate = 40%
+- Sale or Disposal of Non-Current Assets (Fixed Assets)
+- What is Net Book Value (NBV)?
+- NVB = Original Cost - Accumulated Depreciation
+- Gain or Loss on Disposal
+- Gain/Loss = Sale Proceeds - Net Book Value
